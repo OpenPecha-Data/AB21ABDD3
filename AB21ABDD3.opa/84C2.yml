@@ -1,0 +1,7 @@
+segment_sources:
+  I7469046C:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: D37C
+segment_pairs: {}
